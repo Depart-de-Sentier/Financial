@@ -2,6 +2,20 @@
 
 We want DdS to be completely transparent. This repo contains monthly bank statements, expenses, and current and estimate future budgets for DdS activities.
 
+## Current assets
+
+| Item | Value or position (CHF) |
+| --- | --- |
+| Raiffeisen bank account | 2000 |
+
+## Current costs
+
+| Item | Amount (CHF) |
+| --- | --- |
+| [Prize #1](https://github.com/Depart-de-Sentier/Prizes/issues/1) | 100 |
+| [Prize #2](https://github.com/Depart-de-Sentier/Prizes/issues/2) | 150 |
+
+
 ## Expected budget
 
 | Item | Cost per year (CHF) |
