@@ -11,6 +11,7 @@ We want DdS to be completely transparent. This repo contains monthly bank statem
 ## Current liabilities:
 
 [DdS Prizes](https://github.com/Depart-de-Sentier/Prizes): 125 CHF
+
 Hetzner server: 106 €/month.
 
 ## Expected budget
