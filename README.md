@@ -6,23 +6,21 @@ We want DdS to be completely transparent. This repo contains monthly bank statem
 
 | Item | Value or position (CHF) |
 | --- | --- |
-| Raiffeisen bank account | 2000 |
+| Raiffeisen bank account | 1789.64 |
 
-## Current costs
+## Current liabilities:
 
-| Item | Amount (CHF) |
-| --- | --- |
-| [Prize #1](https://github.com/Depart-de-Sentier/Prizes/issues/1) | 100 |
-| [Prize #2](https://github.com/Depart-de-Sentier/Prizes/issues/2) | 150 |
+[DdS Prizes](https://github.com/Depart-de-Sentier/Prizes): 125 CHF
 
+Hetzner server: 106 €/month.
 
 ## Expected budget
 
 | Item | Cost per year (CHF) |
 | --- | --- |
 | [Mailing list](https://groups.io/static/pricing) | 240 |
-| [Server](https://vultr.com) | 144 |
+| [Server](https://hetzner.de) | 1300 |
 | [Domain name](https://hostpoint.ch) | 15 |
 | [Bank account](https://www.raiffeisen.ch/rch/de/privatkunden/konten/zahlungskonten/vereinskonto.html) | 60 |
-| **Total** | **459** |
+| **Total** | **1615** |
 
