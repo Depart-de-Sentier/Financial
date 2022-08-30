@@ -6,7 +6,7 @@ We want DdS to be completely transparent. This repo contains monthly bank statem
 
 | Item | Value or position (CHF) |
 | --- | --- |
-| Raiffeisen bank account | 1789.64 |
+| Raiffeisen bank account | 5513.50 |
 
 ## Current liabilities:
 
