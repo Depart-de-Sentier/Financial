@@ -6,7 +6,7 @@ This repository provides publicly accessible financial information related to th
 
 Historically, this repository also included detailed financial documents such as monthly bank statements and transaction-level expense records. Following a review of data-protection and governance considerations, this practice has been revised.
 
-## Update (September 2026)
+## Update (22.09.2026)
 
 2025 is the association's first year with a salaried employee and its first two multi-year project grants (SERI/Horizon Europe and ADEME), both of which reimburse costs rather than providing a fixed sum. To reflect this, the 2025 financial statement moves from a cash basis to an accrual basis: income and expenses are recognised when earned or incurred, consistent with Swiss Code of Obligations requirements (Art. 957a, 958c CO), rather than when cash changes hands. This is disclosed in the statement's notes, along with the reasoning behind each grant's treatment.
 
@@ -14,7 +14,7 @@ The 2025 statement has been reviewed by the association's auditor, who has issue
 
 *Updated on 22 September by Xiaojin Zhang ([xiaojin@d-d-s.ch](mailto:xiaojin@d-d-s.ch)).*
 
-# Update (24.12.2025)
+## Update (24.12.2025)
 
 To protect personal data and comply with Swiss and European data-protection standards, DdS has discontinued the publication of raw bank statements and transaction-level financial records.
 
